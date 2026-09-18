@@ -12,21 +12,21 @@ title: Beyond Research
 
 <div class="third">
   <div class="image-container">
-    <a href="/images/hobbies/dsm2.jpg" class="image-popup">
-      <img src="/images/hobbies/dsm2.jpg" alt="Siming's personal photo">
+    <a href="/images/hobbies/yy1.jpeg" class="image-popup">
+      <img src="/images/hobbies/yy1.jpeg" alt="Yao's personal photo">
     </a>
   </div>
   <div class="image-container">
-    <a href="/images/hobbies/dsm3.jpg" class="image-popup">
-      <img src="/images/hobbies/dsm3.jpg" alt="Siming at the Forbidden City in Beijing">
+    <a href="/images/hobbies/yy2.jpg" class="image-popup">
+      <img src="/images/hobbies/yy2.jpg" alt="Yao at the Bosporus Strait in Istanbul">
     </a>
     <div class="image-caption">
-      <div class="caption-title">Forbidden City, Beijing</div>
+      <div class="caption-title">Bosporus Strait, Istanbul</div>
     </div>
   </div>
   <div class="image-container">
-    <a href="/images/hobbies/dsm4.jpg" class="image-popup">
-      <img src="/images/hobbies/dsm4.jpg" alt="Siming's personal photo">
+    <a href="/images/hobbies/yy3.jpg" class="image-popup">
+      <img src="/images/hobbies/yy3.jpg" alt="Yao's personal photo">
     </a>
   </div>
 </div>
@@ -35,27 +35,27 @@ title: Beyond Research
 
 <div class="hobby-section cooking-section" markdown="1">
 
-## Possibly the World's Best Amateur Chef
+## Dream to Travel around the World
 
 <div class="cooking-text-card">
-Every meal is an opportunity to create, taste, and share.
+Every journey is an invitation to see the world—and myself—from a new perspective.
 </div>
 
 <div class="cooking-gallery">
   <div class="cooking-featured">
-    <a href="/images/hobbies/Dish1.jpg" class="image-popup">
-      <img src="/images/hobbies/Dish1.jpg" alt="Siming's signature dish">
+    <a href="/images/hobbies/View1.jpg" class="image-popup">
+      <img src="/images/hobbies/View1.jpg" alt="Balloons in Cappadocia, Turkey">
     </a>
   </div>
   <div class="cooking-grid">
     <div class="cooking-item">
-      <a href="/images/hobbies/Dish2.jpg" class="image-popup">
-        <img src="/images/hobbies/Dish2.jpg" alt="Homemade meal by Siming">
+      <a href="/images/hobbies/View2.jpg" class="image-popup">
+        <img src="/images/hobbies/View2.jpg" alt="Ewha Womans University, Seoul, South Korea">
       </a>
     </div>
     <div class="cooking-item">
-      <a href="/images/hobbies/Dish3.jpg" class="image-popup">
-        <img src="/images/hobbies/Dish3.jpg" alt="Culinary creation by Siming">
+      <a href="/images/hobbies/View3.jpg" class="image-popup">
+        <img src="/images/hobbies/View3.jpg" alt="Hong Kong Disneyland">
       </a>
     </div>
   </div>

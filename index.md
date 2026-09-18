@@ -270,8 +270,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 I am particularly interested in building reliable agentic systems that connect data, models, and real-world environments, with an emphasis on software engineering workflows, data-centric intelligence, and embodied interaction.
 
-Previously, my research centered on **nonparametric statistics** and **measurement-error modeling**, unobservable-variable estimation under multiplicative distortion frameworks, where I developed calibration methods and simulation studies to improve correlation-coefficient estimation in complex industrial settings, resulting in five SCI publications.
-<img src="/images/sunset.jpg">
+<img src="/images/hello.jpg">
 
 ---
 
