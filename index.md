@@ -278,36 +278,36 @@ Previously, my research centered on **nonparametric statistics** and **measureme
 ## News and Updates
 
 <div class="news-grid">
-  <div class="news-card news-card--publication">
+  <div class="news-card news-card--milestone">
     <div class="news-meta">
-      <span class="news-date">February 2026</span>
-      <span class="news-tag news-tag--publication">Publication</span>
+      <span class="news-date">June 2026</span>
+      <span class="news-tag news-tag--milestone">Academic</span>
     </div>
-    <p>First-Author Paper: <a href="https://www.tandfonline.com/doi/abs/10.1080/03610918.2026.2635000"><strong>Innovative covariance-based framework: symmetry assessment and exponentiality testing under multiplicative distortion measurement Errors</strong></a> Now Officially Published in <a href="https://www.tandfonline.com/journals/lssp20">Communications in Statistics - Simulation and Computation</a></p>
+    <p>Graduated from <strong>Beihang University</strong> with a B.Eng. in Software Engineering and was recognized as an <strong>Outstanding Graduate</strong>.</p>
   </div>
 
   <div class="news-card news-card--milestone">
     <div class="news-meta">
-      <span class="news-date">Jan 2026</span>
-      <span class="news-tag news-tag--milestone">Milestone</span>
+      <span class="news-date">December 2025</span>
+      <span class="news-tag news-tag--milestone">Award</span>
     </div>
-    <p>Excited to have received an offer from Apple!</p>
+    <p>Received the <strong>Excellence Award</strong> of the Ninebot Company Scholarship.</p>
   </div>
 
   <div class="news-card news-card--milestone">
     <div class="news-meta">
-      <span class="news-date">March 2025</span>
-      <span class="news-tag news-tag--milestone">Milestone</span>
+      <span class="news-date">May 2025</span>
+      <span class="news-tag news-tag--milestone">Award</span>
     </div>
-    <p>Thrilled to have received an offer from UPenn Engineering!</p>
+    <p><strong>HapPermission</strong>, an application-permission analysis framework for HarmonyOS, received the <strong>Gold Award</strong> in the Capital Challenge Cup “Youth Intelligence Future” Special Competition.</p>
   </div>
 
   <div class="news-card news-card--publication">
     <div class="news-meta">
-      <span class="news-date">August 2024</span>
-      <span class="news-tag news-tag--publication">Publication</span>
+      <span class="news-date">2025 – 2026</span>
+      <span class="news-tag news-tag--publication">Project</span>
     </div>
-    <p>First-Author Paper: <a href="https://onlinelibrary.wiley.com/doi/10.1002/sam.11708"><strong>A New Logarithmic Multiplicative Distortion for Correlation Analysis</strong></a> Now Officially Published in <a href="https://onlinelibrary.wiley.com/journal/19321872">Statistical Analysis and Data Mining</a> (JCR Q1)</p>
+    <p>Led <strong>Microxpert</strong>, a knowledge-preserving agentic framework for migrating monoliths to deployable microservices, which received the <strong>Third Prize</strong> in Beihang University’s Feng Ru Cup Main Track.</p>
   </div>
 </div>
 
