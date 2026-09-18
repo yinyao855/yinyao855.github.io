@@ -1,19 +1,19 @@
-title: Siming Deng
+title: Yao Yin
 # Comment out url when working locally to resolve base urls correctly
-url: https://larrysimingdeng.github.io
+url: https://yinyao855.github.io
 
 # Default social-share preview image (Open Graph / Twitter card). Lives in /images/.
 og_image: og-cover.jpg
 
 # Owner/author information
 owner:
-  name: Siming Deng
-  avatar: avatar.jpg
-  email: siming_deng_stat@163.com
-  github: LarrySimingDeng
-  linkedin: larry-deng-317b92360
-  scholar: https://scholar.google.com/citations?hl=en&user=aKyLtgsAAAAJ
-  researchgate: https://www.researchgate.net/profile/Siming-Deng-3
+  name: Yao Yin
+  avatar: avatar.png
+  email: yinyao053@gmail.com
+  github: yinyao855
+  # linkedin: larry-deng-317b92360
+  # scholar: https://scholar.google.com/citations?hl=en&user=aKyLtgsAAAAJ
+  # researchgate: https://www.researchgate.net/profile/Siming-Deng-3
 
 # https://search.google.com/search-console/ownership
 google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"

@@ -4,11 +4,11 @@ layout: page
 
 # About Me
 
-<img src="/images/dengsiming.jpg" class="floatpic">
+<img src="/images/yinyao.jpg" class="floatpic">
 
-Here is **Siming Deng (Larry Deng)**.<br>
+Here is **Yao Yin (Yin Yao)**.<br>
 
-I am a graduate student in the Department of [Electrical and Systems Engineering (ESE)](https://www.ese.upenn.edu/) at the [Penn Engineering](https://www.seas.upenn.edu/) of the **University of Pennsylvania**. Currently, I build **agentic AI tools and infrastructure** for iPhone hardware testing, spanning agent runtimes (multi-agent orchestration and tool use), on-device inference with **Apple MLX**, closed-loop test optimization, and **Vision Transformers** for distribution diagnosis. Broadly, my interests lie at the intersection of **AI infrastructure, applied ML, and hardware systems**. Prior to joining Penn, I gained valuable research experiences as a Research Assistant at Shenzhen University under the supervision of [Dr. Jun Zhang](https://www.researchgate.net/profile/Jun_Zhang93). My work focused on **Nonparametric Statistics**, **Distortion Measurement Error Models**, and **Large Sample Theory**. I developed and analyzed advanced statistical methods, conducted large-scale simulations, and applied these techniques to real-world datasets, resulting in five SCI publications.<br>
+I am an M.Eng. student in Electronic Information at the [School of Software and Microelectronics](https://ss.pku.edu.cn/) of **Peking University**, advised by [Prof. Wentao Zhang](https://zwt233.github.io/). My interests lie at the intersection of **intelligent software engineering**, **large language models**, and **agentic AI systems**, with a particular focus on reliable AI systems for software modernization and data-centric workflows. Previously, I received my B.Eng. in Software Engineering from **Beihang University**, where I worked on agentic migration from monoliths to deployable microservices and static analysis for application permission security. I have also gained industry experience through internships at **ModelBest** and **Alibaba Cloud**.<br>
 
 ## Work Experience
 
@@ -17,35 +17,35 @@ I am a graduate student in the Department of [Electrical and Systems Engineering
 
   <div class="timeline-item timeline-item--current">
     <div class="timeline-dot" style="background: #ffffff;">
-      <img src="/images/logo/apple.svg" alt="Apple">
+      <img src="/images/logo/modelbest.png" alt="Modelbest">
     </div>
     <div class="timeline-card">
       <div class="timeline-header">
-        <div class="timeline-role">Software Engineer <span class="timeline-sep">|</span> <span class="timeline-company">Apple Inc.</span></div>
-        <span class="timeline-time">Jan. 2026 - Present</span>
+        <div class="timeline-role">Algorithm Intern <span class="timeline-sep">|</span> <span class="timeline-company">Modelbest Inc.</span></div>
+        <span class="timeline-time">Dec. 2025 - Jun. 2026</span>
       </div>
       <div class="timeline-details">
-        Developed AI agent tools for iPhone hardware testing, enhancing automated diagnostics workflows and improving large-scale test efficiency.
+        Contributed to the early development of OpenMAIC, an open multi-agent interactive classroom project. Focused on prototype design and core feature implementation for AI-generated course content, interactive learning flows, and production-oriented engineering workflows.
       </div>
     </div>
   </div>
 
   <div class="timeline-item">
     <div class="timeline-dot" style="background: #ffffff;">
-      <img src="/images/logo/upenn.svg" alt="UPenn">
+      <img src="/images/logo/alibabacloud.svg" alt="Alibaba Cloud">
     </div>
     <div class="timeline-card">
       <div class="timeline-header">
-        <div class="timeline-role">Research Assistant <span class="timeline-sep">|</span> <span class="timeline-company">University of Pennsylvania</span></div>
-        <span class="timeline-time">Nov. 2025 - Jan. 2026</span>
+        <div class="timeline-role">Academic Collaboration Intern <span class="timeline-sep">|</span> <span class="timeline-company">Alibaba Cloud Inc.</span></div>
+        <span class="timeline-time">Jul. 2025 - Nov. 2025</span>
       </div>
       <div class="timeline-details">
-        ViT-driven image geolocation.
+        Conducted research and prototyping for monolith-to-microservices modernization, with a focus on dependency analysis, service decomposition strategies, and code refactoring.
       </div>
     </div>
   </div>
 
-  <div class="timeline-item">
+  <!-- <div class="timeline-item">
     <div class="timeline-dot" style="background: #ffffff;">
       <img src="/images/logo/sf.svg" alt="SF Express">
     </div>
@@ -58,9 +58,9 @@ I am a graduate student in the Department of [Electrical and Systems Engineering
         Delivered microservice modules for the order management system.
       </div>
     </div>
-  </div>
+  </div> -->
 
-  <div class="timeline-item">
+  <!-- <div class="timeline-item">
     <div class="timeline-dot" style="background: #ffffff;">
       <img src="/images/logo/boc.svg" alt="Bank of China">
     </div>
@@ -73,9 +73,9 @@ I am a graduate student in the Department of [Electrical and Systems Engineering
         Involved in the deployment and fine-tuning of large language models in internal banking systems.
       </div>
     </div>
-  </div>
+  </div> -->
 
-  <div class="timeline-item">
+  <!-- <div class="timeline-item">
     <div class="timeline-dot" style="background: #ffffff;">
       <img src="/images/logo/szu.svg" alt="Shenzhen University">
     </div>
@@ -88,7 +88,7 @@ I am a graduate student in the Department of [Electrical and Systems Engineering
         Supervised by Distinguished Professor <a href="https://dblp.org/pid/h/JoshuaZhexueHuang.html">Joshua Zhexue Huang</a>. Carried out optimizations on data processing and clustering algorithms by leveraging distributed approximate computing techniques.
       </div>
     </div>
-  </div>
+  </div> -->
 
 </div>
 
@@ -139,11 +139,11 @@ I am a graduate student in the Department of [Electrical and Systems Engineering
 })();
 </script>
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - siming_deng_stat [at] 163.com
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - yinyao053 [at] gmail.com
 
 **<font color="#990000">Seeking Software Engineer and Machine Learning roles — AI Infrastructure, Applied AI / Agents, and ML Systems. Feel free to reach out!</font>**
 
----
+<!-- ---
 
 ## Publications
 
@@ -256,7 +256,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
     });
   }
 })();
-</script>
+</script> -->
 
 ---
 
