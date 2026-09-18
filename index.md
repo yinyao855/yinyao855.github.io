@@ -262,13 +262,13 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## Research Interests
 
-- ML Systems & AI Infrastructure
-- Efficient & On-Device Inference (Apple MLX, SGLang)
-- Agentic AI (multi-agent orchestration & tool use)
-- Machine Learning
-- Nonparametric Statistics
+- Agentic AI & Multi-Agent Systems
+- Embodied AI & World Models
+- Data-Centric AI & LLM Data Systems
+- Intelligent Software Engineering
+- Large Language Models & AI Infrastructure
 
-I currently work at the intersection of **AI infrastructure and applied ML**, building agent runtimes and optimizing LLM inference.
+I am particularly interested in building reliable agentic systems that connect data, models, and real-world environments, with an emphasis on software engineering workflows, data-centric intelligence, and embodied interaction.
 
 Previously, my research centered on **nonparametric statistics** and **measurement-error modeling**, unobservable-variable estimation under multiplicative distortion frameworks, where I developed calibration methods and simulation studies to improve correlation-coefficient estimation in complex industrial settings, resulting in five SCI publications.
 <img src="/images/sunset.jpg">
